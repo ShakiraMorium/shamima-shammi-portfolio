@@ -1,0 +1,84 @@
+SHAMIMA SHAMMI
+Full-Stack Web Developer | Python & Django Developer | React Developer
+Location: Dhaka, Bangladesh / Open to Remote Worldwide
+Email: shamimashammi7@gmail.com
+LinkedIn: https://www.linkedin.com/in/shamima-shammi-59279322a/
+GitHub: https://github.com/ShakiraMorium
+
+==================================================
+PROFESSIONAL SUMMARY
+==================================================
+Aspiring full-stack web developer passionate about building useful, responsive,
+and user-friendly web applications. Proficient in Python, Django REST Framework,
+React, JavaScript, and PostgreSQL database modeling. Brings a unique analytical
+foundation from a Bachelor of Business Administration (BBA) in Accounting,
+translating into meticulous transactional precision, edge-case vigilance, and
+strong commercial product awareness.
+
+==================================================
+ACADEMIC EDUCATION
+==================================================
+Bachelor of Business Administration (BBA) in Accounting
+Focus: Financial information systems, analytical auditing, double-entry ledger logic,
+cost accounting, and structured business workflows.
+
+==================================================
+VERIFIED CERTIFICATIONS
+==================================================
+CSE Fundamentals With Phitron (Fall 2024 Semester)
+Issuer: Phitron.io / Programming Hero | Grade: CGPA 3.67
+Validation ID: PHBATCH67881101066 (Verified at https://phitron.io/verification)
+Curriculum: C & C++ Programming, Object-Oriented Programming (OOP),
+Data Structures (Linked Lists, Binary Trees, Heaps), Algorithms (Divide & Conquer,
+Sorting, BFS, DFS, Graph Algorithms), Complexity Analysis.
+
+==================================================
+TECHNICAL SKILLS
+==================================================
+- Frontend: HTML5, CSS3, JavaScript (ES6+), React, JSX, Responsive Web Design, Tailwind CSS
+- Backend: Python, Django, Django REST Framework, RESTful API Development, Auth (JWT/Session)
+- Databases: PostgreSQL, SQL, Relational Database Design, MongoDB
+- Development Tools: Git, GitHub, Visual Studio Code, Swagger / OpenAPI, Deployment Config
+- Computer Science: Object-Oriented Programming (OOP), Data Structures & Algorithms, C, C++
+- Digital Growth: Technical SEO, Conversion Rate Optimization (CRO), Meta Ads Manager principles
+
+==================================================
+TECHNICAL PROJECTS
+==================================================
+1. Pet Adoption E-Commerce Platform [In Progress / Prototype]
+   Stack: React, JavaScript, Python, Django REST Framework, PostgreSQL, Tailwind CSS
+   - Architected decoupled architecture connecting animal shelter listings with adopters.
+   - Built dynamic multi-parameter filtering (species, breed, age, health verification tags).
+   - Designed normalized PostgreSQL schema for applications, medical tags, and users.
+   - Implemented structured multi-step adoption application workflow.
+   Repo: https://github.com/ShakiraMorium
+
+2. Event Management & Registration System [Prototype]
+   Stack: Python, Django, HTML5, CSS3, JavaScript, PostgreSQL
+   - Engineered role-based access control (RBAC) separating event organizers from attendees.
+   - Implemented concurrency protection locking seats to prevent overbooking venue capacity.
+   - Developed organizer analytics dashboard displaying real-time RSVP counts.
+   Repo: https://github.com/ShakiraMorium
+
+3. Modern E-Commerce Web Application [Prototype]
+   Stack: React, JavaScript, Tailwind CSS, REST APIs
+   - Built responsive storefront with instant client-side product filtering and search.
+   - Managed persistent shopping cart state via React Context and LocalStorage API.
+   - Solved financial precision issues using integer-cent currency calculations.
+   Repo: https://github.com/ShakiraMorium
+
+==================================================
+CORE ENGINEERING ATTRIBUTES
+==================================================
+- Willingness to Learn: Continual student of documentation, best practices, and new technologies.
+- Structured Problem Solving: Methodical 6-step cycle (Understand, Plan, Build, Integrate, Test, Deploy).
+- Attention to Detail: Honed by accounting background to prioritize data accuracy and validation.
+- Collaborative Communication: Transparent updates, clean git hygiene, and empathetic teamwork.
+- Maintainable Code: Focused on modular component design, clean syntax, and readable structure.
+
+==================================================
+CAREER OBJECTIVE
+==================================================
+"I'm seeking an opportunity where I can apply my development knowledge, learn from
+experienced engineers, collaborate with a team, and contribute to building reliable
+digital products."
