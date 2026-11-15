@@ -218,11 +218,11 @@ export default function Hero({ onOpenResume, onShowToast }) {
                     <div className="p-6 pb-4 bg-gradient-to-b from-[#131b2e] to-[#0d1322] border-b border-slate-800/80">
                       <div className="flex items-center gap-4">
                         <div className="relative">
-                          <img 
-                            src="/assets/avatar.jpg" 
-                            alt="Shamima Shammi - Full-Stack Developer" 
-                            className="w-20 h-20 sm:w-24 sm:h-24 rounded-2xl object-cover border-2 border-indigo-500/50 shadow-lg shadow-indigo-950"
-                            loading="eager"
+                          
+                          <img
+                            src="./assets/developer-banner.gif"
+                            width="100%"
+                            alt="Shakira Morium Shammi - Full Stack Developer"
                           />
                           <span className="absolute -bottom-1 -right-1 w-5 h-5 bg-[#0d1322] rounded-full flex items-center justify-center">
                             <span className="w-3 h-3 bg-emerald-500 rounded-full animate-ping opacity-75"></span>
