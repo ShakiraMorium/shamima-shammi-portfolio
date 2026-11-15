@@ -1,0 +1,5 @@
+<img
+  src="/assets/profile.png"
+  alt="Shakira Morium Shammi"
+  className="w-20 h-20 rounded-full object-cover border-2 border-indigo-500 shadow-lg"
+/>
